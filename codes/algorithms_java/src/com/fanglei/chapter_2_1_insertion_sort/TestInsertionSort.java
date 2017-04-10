@@ -11,9 +11,11 @@ public class TestInsertionSort {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] A = {5, 2, 4, 6, 1, 3};
 		
-		Print.println("The raw arry A: ");
+		int[] A = {5, 2, 4, 6, 1, 3};
+//		int[] A = {5};
+
+		Print.println("The raw array A: ");
 		Print.println(A);
 		
 		// Sort A
@@ -21,6 +23,5 @@ public class TestInsertionSort {
 		
 		Print.println("The sorted array B: ");
 		Print.println(B);
-
 	}
 }

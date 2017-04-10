@@ -11,20 +11,20 @@ package com.fanglei.chapter_2_1_insertion_sort;
  * 			i = i -1;
  * 		A[i + 1] = key
  * 
- * ATTENTION: 
+ * WARNING: 
  * 	In the Java's array, the index starts from 0;
  * while in the pseudocode, the default index starts from 1
  * 
  * @author Owen
+ * @email 864720655@qq.com
+ * @version 2017-04-10
  *
  */
 public class InsertionSort {
 
 	public static int[] insertionSort(int[] A)
 	{
-		if (A.length < 2)
-			return A;
-		
+
 		for (int j = 1; j < A.length; j++)
 		{
 			int key = A[j];			
