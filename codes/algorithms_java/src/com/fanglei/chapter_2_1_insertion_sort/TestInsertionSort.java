@@ -4,22 +4,22 @@ import com.fanglei.utils.Print;
 
 /**
  *
- * ClassName: TestInsertionSort <br/>
- * Description: Test insertion sort algorithm <br/>
- *
- * date: Apr 11, 2017 12:58:55 AM <br/>
- *
+ * ClassName: TestInsertionSort <br\>
+ * Description: Test insertion sort algorithm <br\>
+ * dfadda
+ * 
  * @author Lei Fang
  * @email fanglei@pku.edu.cn
  * @version
+ * @date: Apr 11, 2017 12:58:55 AM
  */
 public class TestInsertionSort
 {
 
 	/**
 	 *
-	 * main <br/>
-	 * Test the insertion sort.<br/>
+	 * Method Name: main <br/>
+	 * Description: Test the insertion sort. <br/>
 	 *
 	 * @param args
 	 *

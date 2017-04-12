@@ -1,6 +1,9 @@
 package com.fanglei.chapter_2_1_insertion_sort;
 
 /**
+ *
+ * ClassName: InsertionSort <br/>
+ * Description: <br/>
  * INSERTION-SORT(A) for j = 2 to A.length key = A[j] // Insert A[j] into the
  * sorted sequence A[1, ..., j-1] i = j - 1; while i > 0 and A[i] > key A[i + 1]
  * = A[i] i = i -1; A[i + 1] = key
@@ -8,19 +11,18 @@ package com.fanglei.chapter_2_1_insertion_sort;
  * WARNING: In the Java's array, the index starts from 0; while in the
  * pseudocode, the default index starts from 1.
  *
- * @author Owen
- * @email 864720655@qq.com/fanglei@pku.edu.cn
- * @version 2017-04-10
  *
+ * @author Lei Fang
+ * @email fanglei@pku.edu.cn
+ * @version
+ * @date: Apr 11, 2017 1:12:54 AM
  */
-
 public class InsertionSort
 {
 
 	/**
 	 *
-	 * insertionSort <br/>
-	 * Insertion sort.<br/>
+	 * insertionSort Insertion sort.
 	 *
 	 * @param A the int array to be sorted
 	 * @return the sorted array
