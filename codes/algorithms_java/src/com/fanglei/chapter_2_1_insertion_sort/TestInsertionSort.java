@@ -4,10 +4,9 @@ import com.fanglei.utils.Print;
 
 /**
  *
- * ClassName: TestInsertionSort <br\>
- * Description: Test insertion sort algorithm <br\>
- * dfadda
- * 
+ * ClassName: TestInsertionSort <br/>
+ * Description: Test insertion sort algorithm
+ *
  * @author Lei Fang
  * @email fanglei@pku.edu.cn
  * @version

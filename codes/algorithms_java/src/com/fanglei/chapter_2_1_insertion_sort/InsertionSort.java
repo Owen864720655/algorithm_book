@@ -2,11 +2,22 @@ package com.fanglei.chapter_2_1_insertion_sort;
 
 /**
  *
- * ClassName: InsertionSort <br/>
- * Description: <br/>
- * INSERTION-SORT(A) for j = 2 to A.length key = A[j] // Insert A[j] into the
- * sorted sequence A[1, ..., j-1] i = j - 1; while i > 0 and A[i] > key A[i + 1]
- * = A[i] i = i -1; A[i + 1] = key
+ * ClassName: InsertionSort
+ * 
+ * Problem Formulation: Sorting problem
+ * Input: A sequence of n numbers <a_1, a_2, ..., a_n> <br\>
+ * Output: A permutation <a'_1, a'_2, ..., a'_n> of the input sequence such that
+ * a'_1 <= a'_2 <= ... <= a'_n
+ *
+ * INSERTION-SORT(A)
+ * for j = 2 to A.length
+ * 		key = A[j]
+ * 		// Insert A[j] into the sorted sequence A[1, ..., j-1]
+ * 		i = j - 1
+ * 		while i > 0 and A[i] > key
+ * 			A[i + 1] = A[i]
+ * 			i = i -1
+ * 		A[i + 1] = key
  *
  * WARNING: In the Java's array, the index starts from 0; while in the
  * pseudocode, the default index starts from 1.
