@@ -39,7 +39,9 @@ public class TestMergeSort
 		Print.println(A);
 
 		// Sort A
-		MergeSort.mergeSort(A, 0, A.length-1);
+		int p = 0;
+		int r = A.length - 1;
+		MergeSort.mergeSort(A, p, r);
 
 		Print.println("The sorted array B: ");
 		Print.println(A);
