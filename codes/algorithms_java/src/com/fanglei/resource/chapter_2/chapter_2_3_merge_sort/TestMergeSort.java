@@ -15,13 +15,13 @@
  * 
  */
 
-package com.fanglei.chapter_2_3_merge_sort;
+package com.fanglei.resource.chapter_2.chapter_2_3_merge_sort;
 
 import com.fanglei.utils.Print;
 
 /**
  * ClassName: TestMergeSort
- * Description:
+ * Description: Test the merge-sort algorithm
  * 
  * @author Lei Fang
  * @email fanglei@pku.edu.cn
@@ -33,7 +33,7 @@ public class TestMergeSort
 
 	public static void main(String[] arg)
 	{
-		int[] A = { 5, 2, 4, 6, 1, 3 };
+		int[] A = { 5, 2, 7, 99, 4, 6, 1, 3 };
 
 		Print.println("The raw array A: ");
 		Print.println(A);

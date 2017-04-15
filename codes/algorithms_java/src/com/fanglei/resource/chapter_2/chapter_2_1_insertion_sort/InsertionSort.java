@@ -1,4 +1,4 @@
-package com.fanglei.chapter_2_1_insertion_sort;
+package com.fanglei.resource.chapter_2.chapter_2_1_insertion_sort;
 
 /**
  *
@@ -9,7 +9,7 @@ package com.fanglei.chapter_2_1_insertion_sort;
  * Output: A permutation <a'_1, a'_2, ..., a'_n> of the input sequence such that
  * a'_1 <= a'_2 <= ... <= a'_n
  *
- * INSERTION-SORT(A)
+ * ALGORITHM-INSERTION-SORT(A)
  * for j = 2 to A.length
  * 		key = A[j]
  * 		// Insert A[j] into the sorted sequence A[1, ..., j-1]

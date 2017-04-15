@@ -1,4 +1,4 @@
-package com.fanglei.chapter_2_1_insertion_sort;
+package com.fanglei.resource.chapter_2.chapter_2_1_insertion_sort;
 
 import com.fanglei.utils.Print;
 
@@ -14,16 +14,6 @@ import com.fanglei.utils.Print;
  */
 public class TestInsertionSort
 {
-
-	/**
-	 *
-	 * Method Name: main <br/>
-	 * Description: Test the insertion sort. <br/>
-	 *
-	 * @param args
-	 *
-	 * @author Lei Fang
-	 */
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
