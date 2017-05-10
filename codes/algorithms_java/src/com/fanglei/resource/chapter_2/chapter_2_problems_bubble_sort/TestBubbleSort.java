@@ -33,6 +33,7 @@ public class TestBubbleSort
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
+		// Define A
 		int[] A = { 5, 2, 7, 99, 4, 6, 1, 3 };
 
 		Print.println("The raw array A: ");
