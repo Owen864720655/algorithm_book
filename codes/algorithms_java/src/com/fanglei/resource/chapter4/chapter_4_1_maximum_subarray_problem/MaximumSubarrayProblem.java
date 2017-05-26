@@ -1,3 +1,4 @@
+<<<<<<< .mine
 /**
  * Project Name: algorithms_java
  * File Name: Maximum_Subarray_Problem.java
@@ -199,6 +200,5 @@ public class MaximumSubarrayProblem
 		return findMaximumSubarray(A, low, high);
 	}
 
-
-
 }
+
