@@ -6,14 +6,6 @@
  * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
  * 
  */
-/**
- * Project Name: algorithms_java
- * File Name: MergeSort.java
- * Package Name: com.fanglei.chapter_2_3_merge_sort
- * Date: Apr 12, 2017 10:48:08 PM
- * Copyright (c) 2017, fanglei@pku.edu.cn/864720655@qq.com All Rights Reserved.
- * 
- */
 
 package com.fanglei.resource.chapter_2.chapter_2_3_merge_sort;
 
