@@ -2,16 +2,8 @@
  * Project Name: algorithms_java
  * File Name: TestMaximuSubarrayProblem.java
  * Package Name: com.fanglei.resource.chapter4.chapter_4_1_maximum_subarray_problem
- * Date: May 26, 201710:58:58 PM
- * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
- * 
- */
-/**
- * Project Name: algorithms_java
- * File Name: TestMaximuSubarrayProblem.java
- * Package Name: com.fanglei.resource.chapter4.chapter_4_1_maximum_subarray_problem
  * Date: May 26, 2017 10:58:58 PM
- * Copyright (c) 2017, fanglei@pku.edu.cn/864720655@qq.com All Rights Reserved.
+ * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
  * 
  */
 

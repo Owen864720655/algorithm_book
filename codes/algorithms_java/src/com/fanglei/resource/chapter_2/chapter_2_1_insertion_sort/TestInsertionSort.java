@@ -1,3 +1,12 @@
+/**
+ * Project Name: algorithms_java
+ * File Name: TestInsertionSort.java
+ * Package Name: com.fanglei.chapter_2_1_insertion_sort
+ * Date: Apr 12, 2017 10:48:08 PM
+ * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
+ * 
+ */
+
 package com.fanglei.resource.chapter_2.chapter_2_1_insertion_sort;
 
 import com.fanglei.utils.Print;

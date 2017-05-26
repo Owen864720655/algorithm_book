@@ -2,18 +2,11 @@
  * Project Name: algorithms_java
  * File Name: BubbleSort.java
  * Package Name: com.fanglei.resource.chapter_2.chapter_2_problems_bubble_sort
- * Date: Apr 15, 20179:58:59 PM
+ * Date: Apr 15, 2017 9:58:59 PM
  * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
  * 
  */
-/**
- * Project Name: algorithms_java
- * File Name: BubbleSort.java
- * Package Name: com.fanglei.resource.chapter_2.chapter_2_problems_bubble_sort
- * Date: Apr 15, 2017 9:58:59 PM
- * Copyright (c) 2017, fanglei@pku.edu.cn/864720655@qq.com All Rights Reserved.
- * 
- */
+
 
 package com.fanglei.resource.chapter_2.chapter_2_problems_bubble_sort;
 

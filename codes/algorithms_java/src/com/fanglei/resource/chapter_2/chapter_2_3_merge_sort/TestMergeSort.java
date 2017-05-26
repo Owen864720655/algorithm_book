@@ -2,16 +2,8 @@
  * Project Name: algorithms_java
  * File Name: TestMergeSort.java
  * Package Name: com.fanglei.chapter_2_3_merge_sort
- * Date: Apr 12, 201711:04:32 PM
- * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
- * 
- */
-/**
- * Project Name: algorithms_java
- * File Name: TestMergeSort.java
- * Package Name: com.fanglei.chapter_2_3_merge_sort
  * Date: Apr 12, 2017 11:04:32 PM
- * Copyright (c) 2017, fanglei@pku.edu.cn/864720655@qq.com All Rights Reserved.
+ * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
  * 
  */
 
