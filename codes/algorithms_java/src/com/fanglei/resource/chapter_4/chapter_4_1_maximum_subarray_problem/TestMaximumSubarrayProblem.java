@@ -7,9 +7,9 @@
  * 
  */
 
-package com.fanglei.resource.chapter4.chapter_4_1_maximum_subarray_problem;
+package com.fanglei.resource.chapter_4.chapter_4_1_maximum_subarray_problem;
 
-import com.fanglei.resource.chapter4.chapter_4_1_maximum_subarray_problem.MaximumSubarrayProblem.Result;
+import com.fanglei.resource.chapter_4.chapter_4_1_maximum_subarray_problem.MaximumSubarrayProblem.Result;
 
 /**
  * ClassName: TestMaximuSubarrayProblem
