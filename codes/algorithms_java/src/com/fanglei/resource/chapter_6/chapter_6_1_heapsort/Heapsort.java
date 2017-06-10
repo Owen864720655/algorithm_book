@@ -12,6 +12,7 @@ package com.fanglei.resource.chapter_6.chapter_6_1_heapsort;
 /**
  * ClassName: Heapsort
  * Description:
+ * 		Heapsort algorithm
  * 
  * @author Lei Fang
  * @email fanglei@pku.edu.cn

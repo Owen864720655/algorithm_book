@@ -1,7 +1,7 @@
 /**
  * Project Name: algorithms_java
  * File Name: Maximum_Subarray_Problem.java
- * Package Name: com.fanglei.resource.chapter4.chapter_4_1_maximum_subarray_problem
+ * Package Name: com.fanglei.resource.chapter_4.chapter_4_1_maximum_subarray_problem
  * Date: May 11, 2017 11:01:27 PM
  * Copyright (c) 2017, fanglei@pku.edu.cn All Rights Reserved.
  * 
